@@ -4,13 +4,12 @@
 
 This project is part of our Time-Series Data Analysis lab, focusing on real-world stock market data.
 
-After analyzing and visualizing the stock prices of the top six banks in Vietnam (see our [previous project](https://github.com/MPhuongLe/Stock-price-Analysis-and-Visualization-of-Vietnam-top-6-banks)), we extend the work by learning how to deliver insights through **interactive dashboards** built with:
+After prepocessing data, visualizing and analyzing the stock prices of the top six banks in Vietnam (see our [previous project](https://github.com/MPhuongLe/Stock-price-Analysis-and-Visualization-of-Vietnam-top-6-banks)), we extend the work by learning how to deliver insights through **interactive dashboards** built with:
 
 - **Tableau**
 - **Streamlit**
 
-> We also explored **Power BI** in a related project. If you're interested, check out  
-> the [Analysis of Covid-19 Pandemic in Vietnam](https://github.com/MPhuongLe/Analysis-of-Covid-19-Pandemic-in-Vietnam).
+*We also explored **Power BI** in a related project. If you're interested, check out [Analysis of Covid-19 Pandemic in Vietnam](https://github.com/MPhuongLe/Analysis-of-Covid-19-Pandemic-in-Vietnam).*
 
 ---
 
